@@ -1,8 +1,4 @@
-/***
- * Thomas Dang
- * Operating Systems Spring 2017
- * Greg Ozbirn
- */
+
 public class main{
 	
 	/***this loop will keep track of total number of customers completed and instantiates a new instance to the semaphore class with 
