@@ -1,8 +1,4 @@
-/***
- * Thomas Dang
- * Operating Systems Spring 2017
- * Greg Ozbirn
- */
+
 import java.util.LinkedList;
 import java.util.Queue;
 
